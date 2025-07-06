@@ -4,7 +4,7 @@ A classic **Simon Says** memory game built using HTML, CSS, and JavaScript. The 
 
 ## 🎮 Live Demo
 
-🔗 [Click here to play the game](https://your-live-demo-link.com)
+🔗 [Click here to play the game](https://simon-says-by-advait.netlify.app/)
 
 ## 🧠 How to Play
 
